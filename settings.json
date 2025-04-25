@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "SLAVES-SMP-IICx.aternos.me",
+    "port": 44402,
     "version": "1.19.3"
   },
 
